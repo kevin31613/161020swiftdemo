@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "04E462BF1DB88FC00003743D"
-               BuildableName = "boutique.app"
-               BlueprintName = "boutique"
-               ReferencedContainer = "container:boutique.xcodeproj">
+               BuildableName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;.app"
+               BlueprintName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;"
+               ReferencedContainer = "container:&#x7cbe;&#x54c1;&#x6307;&#x5357;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04E462BF1DB88FC00003743D"
-            BuildableName = "boutique.app"
-            BlueprintName = "boutique"
-            ReferencedContainer = "container:boutique.xcodeproj">
+            BuildableName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;.app"
+            BlueprintName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;"
+            ReferencedContainer = "container:&#x7cbe;&#x54c1;&#x6307;&#x5357;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04E462BF1DB88FC00003743D"
-            BuildableName = "boutique.app"
-            BlueprintName = "boutique"
-            ReferencedContainer = "container:boutique.xcodeproj">
+            BuildableName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;.app"
+            BlueprintName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;"
+            ReferencedContainer = "container:&#x7cbe;&#x54c1;&#x6307;&#x5357;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04E462BF1DB88FC00003743D"
-            BuildableName = "boutique.app"
-            BlueprintName = "boutique"
-            ReferencedContainer = "container:boutique.xcodeproj">
+            BuildableName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;.app"
+            BlueprintName = "&#x7cbe;&#x54c1;&#x6307;&#x5357;"
+            ReferencedContainer = "container:&#x7cbe;&#x54c1;&#x6307;&#x5357;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04E462C01DB88FC00003743D /* boutique.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = boutique.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04E462C01DB88FC00003743D /* 精品指南.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "精品指南.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E462C31DB88FC00003743D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04E462C51DB88FC00003743D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		04E462C81DB88FC00003743D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		04E462C11DB88FC00003743D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04E462C01DB88FC00003743D /* boutique.app */,
+				04E462C01DB88FC00003743D /* 精品指南.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04E462BF1DB88FC00003743D /* boutique */ = {
+		04E462BF1DB88FC00003743D /* 精品指南 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04E462D21DB88FC00003743D /* Build configuration list for PBXNativeTarget "boutique" */;
+			buildConfigurationList = 04E462D21DB88FC00003743D /* Build configuration list for PBXNativeTarget "精品指南" */;
 			buildPhases = (
 				04E462BC1DB88FC00003743D /* Sources */,
 				04E462BD1DB88FC00003743D /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = boutique;
+			name = "精品指南";
 			productName = boutique;
-			productReference = 04E462C01DB88FC00003743D /* boutique.app */;
+			productReference = 04E462C01DB88FC00003743D /* 精品指南.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 04E462BB1DB88FC00003743D /* Build configuration list for PBXProject "boutique" */;
+			buildConfigurationList = 04E462BB1DB88FC00003743D /* Build configuration list for PBXProject "精品指南" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04E462BF1DB88FC00003743D /* boutique */,
+				04E462BF1DB88FC00003743D /* 精品指南 */,
 			);
 		};
 /* End PBXProject section */
@@ -284,7 +284,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04E462BB1DB88FC00003743D /* Build configuration list for PBXProject "boutique" */ = {
+		04E462BB1DB88FC00003743D /* Build configuration list for PBXProject "精品指南" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04E462D01DB88FC00003743D /* Debug */,
@@ -293,7 +293,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04E462D21DB88FC00003743D /* Build configuration list for PBXNativeTarget "boutique" */ = {
+		04E462D21DB88FC00003743D /* Build configuration list for PBXNativeTarget "精品指南" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04E462D31DB88FC00003743D /* Debug */,
